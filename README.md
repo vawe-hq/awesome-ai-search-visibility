@@ -1,3 +1,20 @@
+<p align="center">
+  <a href="https://vawe.dev"><img alt="Awesome AI search visibility: how AI answer engines and coding agents find and cite sites" src="assets/banner.png" width="100%"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/vawe-hq/awesome-ai-search-visibility/blob/main/LICENSE"><img src="https://img.shields.io/github/license/vawe-hq/awesome-ai-search-visibility?style=flat" alt="License"></a>
+  <a href="https://github.com/vawe-hq/awesome-ai-search-visibility/stargazers"><img src="https://img.shields.io/github/stars/vawe-hq/awesome-ai-search-visibility?style=flat" alt="GitHub stars"></a>
+  <a href="https://github.com/vawe-hq/awesome-ai-search-visibility/commits/main"><img src="https://img.shields.io/github/last-commit/vawe-hq/awesome-ai-search-visibility?style=flat" alt="Last commit"></a>
+</p>
+
+<p align="center"><b>AEO, GEO, AI crawlers, measuring visibility and programmatic SEO, each finding with its source.</b></p>
+
+<p align="center">
+  <a href="https://vawe.dev">vawe.dev</a> |
+  <a href="https://vawe.dev/docs">Docs</a>
+</p>
+
 # Awesome AI Search Visibility [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > What the evidence says about getting a site or a developer tool named and cited by AI answer engines and coding agents.
